@@ -43,6 +43,10 @@ footer{background-color: #43e8bf;
     padding: 30px;
     gap: 10px;
 }
+.categorias {
+    display: flex;
+    align-items: center;
+  }
 
 
 
