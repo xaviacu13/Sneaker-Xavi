@@ -1,0 +1,17 @@
+NOMBRE: 
+Diogo Xavier Mamani Condori
+
+COLEGIO:
+Hernando Siles Secundaria 
+
+MUNICIPIO:
+Villa Vaca Guzman 
+
+GRADO:
+6to A
+
+GESTION:
+2024
+
+VERSION:
+App SNEAKERS XAVIER V_0.1
